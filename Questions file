@@ -1,0 +1,30 @@
+
+--Easy
+How many transactions are there in total?
+What is the total quantity sold across all stores?
+What is the average unit price of products?
+Which store location has the highest number of transactions?
+List the top 5 most frequently sold product ids.
+Find the minimum and maximum transaction date.
+
+--Intermediate
+What is the total revenue per store_location?
+Find the top 10 product categories by total sales revenue.
+For each store id, calculate the average transaction size (average transaction qty per transaction).
+Which day of the week has the highest sales on average?
+Identify the product type that has the highest average unit price.
+Compare total revenue between weekdays and weekends.
+Find the monthly trend of total revenue across all stores.
+
+--Hard 
+Identify the top 5 products that contribute the most to overall revenue.
+Find products with the highest variation in unit_price.
+Calculate customer “peak shopping hours” by analyzing transaction time distribution.
+how do product category sales trend over months?
+which months consistently show higher sales across years?
+
+Calculate basket size: on average, how many different product_types are sold together in the same transaction_id?
+
+Identify underperforming stores: which store_id has the lowest revenue per transaction on average?
+
+Perform year-over-year growth analysis for total revenue, broken down by product_category.
