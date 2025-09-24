@@ -25,15 +25,11 @@ product_type – Sub-category (e.g., Latte, Espresso, Muffin)
 
 product_detail – Detailed description of the item
 
- Questions
-
-The analysis questions are structured in three levels:
-
+# The analysis questions:
 Easy
 
-Count total transactions
-
-Find total items sold
+-Count total transactions
+-Find total items sold
 
 Calculate average price per item
 
