@@ -26,10 +26,11 @@ product_type – Sub-category (e.g., Latte, Espresso, Muffin)
 product_detail – Detailed description of the item
 
 # The analysis questions:
-Easy
+--Easy
 
--Count total transactions
--Find total items sold
+Count total transactions
+
+Find total items sold
 
 Calculate average price per item
 
@@ -37,7 +38,7 @@ Identify the busiest store location
 
 List top 5 most popular products
 
-Intermediate
+--Intermediate
 
 Calculate revenue per store location
 
@@ -49,7 +50,7 @@ Find best performing day of the week
 
 Identify the most premium product types
 
-Hard
+--Hard
 
 Top products driving most of the revenue (Pareto analysis)
 
@@ -61,10 +62,6 @@ Monthly revenue trends
 
 Identify underperforming stores based on revenue per transaction
 
-Purpose
+# Purpose
 
-Practice SQL and Python (pandas) for real-world business analysis
-
-Explore coffee shop sales patterns and consumer behavior
-
-Create portfolio-ready projects for data analytics and business intelligence
+The goal of this project is to use coffee shop sales data to improve data analysis skills. By working through different levels of questions, I can apply SQL to uncover sales trends, customer preferences, and store performance. The idea is to treat the dataset like a real business case , finding insights that a coffee shop manager or owner might actually care about , while also building a project that showcases practical data analytics and business intelligence skills.
