@@ -1,7 +1,7 @@
 # Coffee_Shop_Sales_Analysis
 This project analyzes transactional data from a coffee shop chain with ~150,000 records. The dataset includes details about orders, products, pricing, and store locations. It’s designed to help practice SQL queries, data analysis, and business insights across different difficulty levels.
 
- Dataset Columns
+# Dataset Columns
 
 transaction_id – Unique identifier for each order
 
